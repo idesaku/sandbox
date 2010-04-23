@@ -18,3 +18,5 @@ pushurl指定してみた。
 Github上のリポジトリにhttpsつかって
 pushできるようになったらしいので、
 ためしてみる。
+
+.netrc書いてpushしてみよう。
